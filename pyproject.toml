@@ -51,7 +51,7 @@ unishox2-py3 = "1.0.0"
 cachecontrol = "0.13.1"
 attrs = "23.1.0"
 packaging = "24.0"  # Updated to meet meshtastic requirement
-virtualenv = "20.25.0"
+virtualenv = "20.27.1"
 
 [tool.poetry-dynamic-versioning]
 enable = true
