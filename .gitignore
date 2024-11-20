@@ -168,3 +168,4 @@ instance/*
 .webassets-cache
 .env
 
+certificates/*
