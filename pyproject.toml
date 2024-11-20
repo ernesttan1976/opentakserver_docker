@@ -50,7 +50,7 @@ unishox2-py3 = "1.0.0"
 # Fixed dependency versions to resolve conflicts
 cachecontrol = "0.13.1"
 attrs = "23.1.0"
-packaging = "24.0"  # Updated to meet meshtastic requirement
+packaging = "24.2"  # Updated to meet meshtastic requirement
 virtualenv = "20.25.0"
 
 [tool.poetry-dynamic-versioning]
