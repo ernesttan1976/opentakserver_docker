@@ -48,7 +48,7 @@ sqlalchemy-utils = "0.41.2"
 tldextract = "5.1.2"
 unishox2-py3 = "1.0.0"
 # Fixed dependency versions to resolve conflicts
-cachecontrol = "0.13.1"
+cachecontrol = "0.14.2"
 attrs = "23.1.0"
 packaging = "24.0"  # Updated to meet meshtastic requirement
 virtualenv = "20.25.0"
